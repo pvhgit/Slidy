@@ -1,0 +1,12 @@
+{
+    "name": "Prashant_sample",
+    "version": "0.0.0",
+    "description": "Prashant sample",
+    "dependencies": {
+        "socket.io": "latest",
+        "express": "latest",
+        "ejs": "latest",
+        "request": "latest"
+    },
+    "author": "Prashant Hedaoo"
+}
