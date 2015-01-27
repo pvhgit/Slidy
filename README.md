@@ -1,0 +1,2 @@
+# Slidy
+Swipe the pictures
